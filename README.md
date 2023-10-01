@@ -1,3 +1,5 @@
+<p align="right"><a href="https://kairulla.github.io/theory_and_specification_of_programming/">home page</a></p>
+
 # Задача 1 Протокол
 ```
 Тройка чисел (T1,M1,C1) задает стартовое время,
